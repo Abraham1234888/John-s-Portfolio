@@ -1,5 +1,5 @@
 # John-s-Portfolio
-A document for online representation.
+My online representation.
 Skills: HTML/CSS |
 Git, Github |
 netlify |
