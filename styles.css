@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+    font-size: larger;
+    
+}
+
+img{
+    border-radius: 20px;
+}
+
+h4,h3{
+    color: darkgreen;
+    font-style: italic;
+    line-height: 1.6px;
+}
+
+.intro{
+    text-align: left;
+}
+
+h1,h2,h3,p{
+    text-align: center;
+}
+
+p1,p2{
+    line-height: 2px;
+}
+
+.outro{
+    text-align: center;
+    font-style: italic;
+}
+
+.projects{
+    text-align: left;
+}
